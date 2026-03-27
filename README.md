@@ -35,13 +35,16 @@ Kimure-Website/
 ## Screenshots
 
 ### Homepage
-![Homepage](images/home.png)
+![Homepage](images/home.png)<img width="1900" height="936" alt="Kimure home page" src="https://github.com/user-attachments/assets/4530f717-20d9-4997-83c0-b1f724f1f12c" />
+
 
 ### Marketplace
-![Marketplace](images/marketplace.png)
+![Marketplace](images/marketplace.png)<img width="1893" height="934" alt="kimure marketplace" src="https://github.com/user-attachments/assets/0e7d13e0-4abc-407b-a6c1-8c896209f82a" />
+
 
 ### Investors Page
-![Investors](images/investors.png)
+![Investors](images/investors.png)<img width="1891" height="928" alt="kimure invest" src="https://github.com/user-attachments/assets/57a50f87-bb15-4353-81de-8cac8f6ddb15" />
+
 
 ## Future Improvements
 - AI-based recommendation system
