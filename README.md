@@ -35,15 +35,16 @@ Kimure-Website/
 ## Screenshots
 
 ### Homepage
-![Homepage](images/home.png)<img width="1900" height="936" alt="Kimure home page" src="https://github.com/user-attachments/assets/4530f717-20d9-4997-83c0-b1f724f1f12c" />
+<img width="1900" height="936" alt="Kimure home page" src="https://github.com/user-attachments/assets/26b3a0ef-fc61-470c-a2b5-55fbb9ff9d2d" />
 
 
 ### Marketplace
-![Marketplace](images/marketplace.png)<img width="1893" height="934" alt="kimure marketplace" src="https://github.com/user-attachments/assets/0e7d13e0-4abc-407b-a6c1-8c896209f82a" />
+<img width="1893" height="934" alt="kimure marketplace" src="https://github.com/user-attachments/assets/fccc1db8-1022-47b6-9eff-6058d9becd2e" />
+
 
 
 ### Investors Page
-![Investors](images/investors.png)<img width="1891" height="928" alt="kimure invest" src="https://github.com/user-attachments/assets/57a50f87-bb15-4353-81de-8cac8f6ddb15" />
+<img width="1891" height="928" alt="kimure invest" src="https://github.com/user-attachments/assets/4a2e7c14-3aa6-4d01-acdf-767df15f9266" />
 
 
 ## Future Improvements
