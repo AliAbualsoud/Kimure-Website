@@ -47,6 +47,10 @@ Kimure-Website/
 <img width="1891" height="928" alt="kimure invest" src="https://github.com/user-attachments/assets/4a2e7c14-3aa6-4d01-acdf-767df15f9266" />
 
 
+### French Language and Light Mode Toggle
+<img width="1898" height="936" alt="kimure white" src="https://github.com/user-attachments/assets/cba505b1-d2a0-44fd-be0a-f951b7825d8d" />
+
+
 ## Future Improvements
 - AI-based recommendation system
 - Property filtering and search functionality
